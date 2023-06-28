@@ -79,9 +79,7 @@ export default function Newsletter(props: Props) {
     </form>
   );
 
-  const bgLayout = isReverse
-    ? "bg-emerald-700"
-    : "bg-transparent";
+  const bgLayout = isReverse ? "bg-emerald-700" : "bg-transparent";
 
   return (
     <div
