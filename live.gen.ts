@@ -194,13 +194,15 @@ const manifest = {
     "$live/sections/PageInclude.tsx": i2$$$$$2,
     "$live/sections/Slot.tsx": i2$$$$$3,
     "$live/sections/UseSlot.tsx": i2$$$$$4,
-    "deco-sites/auahashopesther/sections/Category/CategoryBanner.tsx": $$$$$$$$2,
+    "deco-sites/auahashopesther/sections/Category/CategoryBanner.tsx":
+      $$$$$$$$2,
     "deco-sites/auahashopesther/sections/Category/CategoryList.tsx": $$$$$$$$3,
     "deco-sites/auahashopesther/sections/Content/Benefits.tsx": $$$$$$$$11,
     "deco-sites/auahashopesther/sections/Content/Faq.tsx": $$$$$$$$10,
     "deco-sites/auahashopesther/sections/Content/Logos.tsx": $$$$$$$$9,
     "deco-sites/auahashopesther/sections/Content/Testimonials.tsx": $$$$$$$$8,
-    "deco-sites/auahashopesther/sections/DesignSystem/DesignSystem.tsx": $$$$$$$$1,
+    "deco-sites/auahashopesther/sections/DesignSystem/DesignSystem.tsx":
+      $$$$$$$$1,
     "deco-sites/auahashopesther/sections/Footer/Footer.tsx": $$$$$$$$0,
     "deco-sites/auahashopesther/sections/Header/Header.tsx": $$$$$$$$23,
     "deco-sites/auahashopesther/sections/Images/BannerGrid.tsx": $$$$$$$$5,
@@ -209,10 +211,13 @@ const manifest = {
     "deco-sites/auahashopesther/sections/Images/ShoppableBanner.tsx": $$$$$$$$4,
     "deco-sites/auahashopesther/sections/Links/LinkTree.tsx": $$$$$$$$20,
     "deco-sites/auahashopesther/sections/Links/Shortcuts.tsx": $$$$$$$$21,
-    "deco-sites/auahashopesther/sections/Miscellaneous/CampaignTimer.tsx": $$$$$$$$16,
-    "deco-sites/auahashopesther/sections/Miscellaneous/CookieConsent.tsx": $$$$$$$$17,
+    "deco-sites/auahashopesther/sections/Miscellaneous/CampaignTimer.tsx":
+      $$$$$$$$16,
+    "deco-sites/auahashopesther/sections/Miscellaneous/CookieConsent.tsx":
+      $$$$$$$$17,
     "deco-sites/auahashopesther/sections/Newsletter/Newsletter.tsx": $$$$$$$$22,
-    "deco-sites/auahashopesther/sections/Product/ProductDetails.tsx": $$$$$$$$15,
+    "deco-sites/auahashopesther/sections/Product/ProductDetails.tsx":
+      $$$$$$$$15,
     "deco-sites/auahashopesther/sections/Product/ProductShelf.tsx": $$$$$$$$14,
     "deco-sites/auahashopesther/sections/Product/SearchResult.tsx": $$$$$$$$13,
     "deco-sites/auahashopesther/sections/Product/Wishlist.tsx": $$$$$$$$12,
